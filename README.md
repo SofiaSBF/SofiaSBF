@@ -8,10 +8,10 @@
 </div>
 <tr>
 <b>Contato:</b> 
- <a href= ''><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
- <a href= ''><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href= ''><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href= ''><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href= 'https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRqhKPBJGvsmgXZRRZWhPMNpvkvFjHfTPRNkhJCqhHVvbVfhVVsckCTFThnkjWkVjpZchVg'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href= 'https://www.linkedin.com/in/sofiabfigueira/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href= 'https://discord.com/channels/@Sofia#9836'><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href= 'https://github.com/SofiaSBF/SofiaSBF'><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </tr>
   <br>
 <tr> 
