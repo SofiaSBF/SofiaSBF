@@ -1,10 +1,11 @@
 
-## Olá pessoas!
- Me chamo Sofia, tenho 27 anos e moro no Rio de Janeiro.
-💫Faço graduação em Artes Visuais na UERJ.
-💫Estudo chatbots a um ano. 
-💫Gosto muito de CSS/HTML.
+## 👋Olá pessoas!👋
+👋Me chamo Sofia, tenho 27 anos e moro no Rio de Janeiro.</br>
+💫Faço graduação em Artes Visuais na UERJ.</br>
+💫Estudo chatbots a um ano.</br> 
+💫Gosto muito de CSS/HTML.</br>
 
+<img src="https://ibb.co/nMKHzjH"><img src="https://i.ibb.co/nMKHzjH/download20220304153732.png">
 </div>
 <tr>
 <b>Contato:</b> 
@@ -47,6 +48,7 @@
 <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
 
 <b>Plataformas:
- </a>
- <img src="">
+ <img src="https://i.ibb.co/9sC6F9V/ALTU.png" height='28' width='100'>
+ <img src="https://i.ibb.co/DYghwTK/BLIP.png" height='28' width='100'>
+ <img src="https://bit.ly/3udkaLg">
  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"></b>
