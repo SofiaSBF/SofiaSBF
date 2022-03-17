@@ -26,12 +26,13 @@
 <tr>
   <td>
 <b>Ferramentas e Linguagens(Estudando):</b>
-  <br>
+ </br></br>
+   <div class="position-relative">
    <img src="https://bit.ly/3u62BMX" ></td>
   <img src="https://bit.ly/3IoLkDD"></td>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></td>
   <img src="https://i.ibb.co/sm6pGXF/Trello.png"></td>
-  <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></td>
+  <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></td></br>
    <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"></td>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></td>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></td>
