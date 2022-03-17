@@ -5,7 +5,7 @@
 💫Estudo chatbots a um ano.</br> 
 💫Gosto muito de CSS/HTML.</br>
 
-<img src="https://ibb.co/nMKHzjH"><img src="https://i.ibb.co/nMKHzjH/download20220304153732.png">
+<img src="https://i.ibb.co/nMKHzjH/download20220304153732.png">
 </div>
 <tr>
 <b>Contato:</b> 
