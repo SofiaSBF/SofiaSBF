@@ -40,13 +40,15 @@
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css&logoColor=white"></td>
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></td>
  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"></td>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
  </tr>
  <br>
  </br>
 <b>Outras Ferramentas:</b> 
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
-
+</br>
+</br>
 <b>Plataformas:
  <img src="https://i.ibb.co/9sC6F9V/ALTU.png" height='28' width='100'>
  <img src="https://i.ibb.co/DYghwTK/BLIP.png" height='28' width='100'>
