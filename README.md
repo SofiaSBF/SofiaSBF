@@ -49,8 +49,8 @@
 <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
 </br>
 </br>
-<b>Plataformas:
+<b>Plataformas:</b>
  <img src="https://i.ibb.co/9sC6F9V/ALTU.png" height='28' width='100'>
  <img src="https://i.ibb.co/DYghwTK/BLIP.png" height='28' width='100'>
  <img src="https://bit.ly/3udkaLg">
- <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"></b>
+ <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white">
