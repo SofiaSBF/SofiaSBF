@@ -2,7 +2,7 @@
 ## 👋Olá pessoas!👋
 👋Me chamo Sofia, tenho 27 anos e moro no Rio de Janeiro.</br>
 💫Faço graduação em Artes Visuais na UERJ.</br>
-💫Estudo chatbots a um ano.</br>
+💫Estudo chatbots a um ano e meio.</br>
 💫 Comecei uma graduação de Sistemas da Informação em Abril de 2022.(EAD)<br>
 💫Gosto muito de CSS/HTML.</br>
 
