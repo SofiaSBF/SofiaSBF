@@ -53,5 +53,5 @@
 <b>Plataformas:</b>
  <img src="https://i.ibb.co/9sC6F9V/ALTU.png" height='28' width='100'>
  <img src="https://i.ibb.co/DYghwTK/BLIP.png" height='28' width='100'>
- <img src="https://camo.githubusercontent.com/78c52198e5a4e177db0d305f78419dbdad83cec004e761333cf32c8dee4113b0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d49424d26636f6c6f723d303532464144266c6f676f3d49424d266c6f676f436f6c6f723d464646464646266c6162656c3d" height='28' width='100'>
  <img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white">
+ 
