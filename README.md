@@ -27,7 +27,7 @@
   </br>
 <tr>
   <td>
-<b>Ferramentas e Linguagens(Estudando):</b>
+<b>Ferramentas e Linguagens <b>(Estudando):</b>
  </br></br>
    <div class="position-relative">
    <img src="https://bit.ly/3u62BMX" ></td>
