@@ -17,11 +17,6 @@
 </tr>
   <br>
 <tr> 
-<b>Horas livres:
- <img src="https://i.ibb.co/Wzsgkn7/Banner-git.png" height='30' width='100'>
- <img src="https://i.ibb.co/F8vGZpN/Escrever.png" height='30' width='100'>
- <img src="https://i.ibb.co/W0rkwTK/Cantar.png" height='30' width='100'>
- <img src="https://i.ibb.co/YtkXCrx/Ler.png" height='30' width='100'></b> 
  </tr>
   <br>
   </br>
@@ -33,7 +28,6 @@
    <img src="https://bit.ly/3u62BMX" ></td>
   <img src="https://camo.githubusercontent.com/0f40d5ce3282ca82ccfec8cdcd494cadcaedab52e92c4b578f0499dbddfa353b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465"></td>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></td>
-  <img src="https://i.ibb.co/sm6pGXF/Trello.png"></td>
   <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></td></br>
    <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"></td>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></td>
