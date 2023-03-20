@@ -1,7 +1,7 @@
 
 ## 👋Olá pessoas!👋
 👋Me chamo Sofia, tenho 28 anos e moro no Rio de Janeiro.</br>
-💫Sou graduanda em Artes Visuais na UERJ.</br>
+💫Sou Estudante do curso de Artes Visuais Bacharelado na UERJ(Universidade Estadual do Rio de Janeiro) - Universidade Pública localizada no RJ.</br>
 💫Estudo sobre Chatbots desde 2021 e em 2022 comecei a estudar sobre Sites e Jogos 2D(Enigne Ren'py)</br>
 💫Gosto de explorar as possibilidades do CSS/HTML.</br>
 
